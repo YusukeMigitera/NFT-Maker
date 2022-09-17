@@ -1,0 +1,31 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "extensions.ignoreRecommendations": true,
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDragAndDrop": false,
+    "files.eol": "\n",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "solidity.packageDefaultDependenciesDirectory": "ipfs-nfts/node_modules"
+}
